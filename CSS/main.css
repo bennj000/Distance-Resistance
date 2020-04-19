@@ -1,0 +1,48 @@
+html {
+	background-color: #A9A9A9;
+  
+}
+.container{
+	font-family: "courier";
+    text-align: center;
+}
+.Mainimage{ 
+     display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+ 
+}
+
+.mainintro{
+	 text-align: center;
+	 padding-left: 200px;
+     padding-right: 200px;
+     font-family: "Lucida Console";
+}
+
+.Video{
+    font-family: "courier";
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 55%;
+  text-align: center;
+ }
+
+ .Labels{
+    font-family: "courier";
+     width: 30%;
+  padding-left: 330px;
+
+ }
+
+ .footer{
+    font-family: "courier";
+     padding-left: 30px;
+ }
+
+
+
+
+
